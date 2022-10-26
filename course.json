@@ -1,0 +1,29 @@
+[
+    
+    {"_id":"0282e0e58a5c404fbd15261f11c2ab6a","category_id":"01","rating":{"number":4.6,"badge":"Super","Duration":"2 months"},"total_view":48898,"price":189.99,"title":"Complete HTML Course","author":{"name":"Mehedi Hasan Tonmoy","published_date":"2022-10-25 17:27:34","img":"https://i.ibb.co/2F0Zr35/sas.jpg"},"image_url":"https://html.com/wp-content/uploads/html-hpg-featured-new.png","details":"The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript."},
+
+    {
+        "_id":"0282e0e58a5c404fbd15261f1dj30je62h","category_id":"02","rating":{"number":4.3,"badge":"Excellent","Duration":"3 months"},"total_view":20388,"price":183.99,"title":" Complete CSS Course","author":{"name":"Mehedi Hasan Tonmoy","published_date":"2022-10-25 11:27:34","img":"https://i.ibb.co/2F0Zr35/sas.jpg"},"image_url":"https://cdn.mos.cms.futurecdn.net/Vp9WvV7YKdH4k8sKRePcE8-1200-80.jpg","details":"Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript."
+    },
+
+    {
+        "_id":"3sk39h358sn3id83bv96sb20in7nb792ns6","category_id":"03","rating":{"number":4.5,"badge":"Rising","Duration":"6 months"},"total_view":30048,"price":179.99,"title":"Complete JavsScript Course","author":{"name":"Mehedi Hasan Tonmoy","published_date":"2022-10-20 11:27:34","img":"https://i.ibb.co/Fq0zFYc/nus.jpg"},"image_url":"https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg","details":"JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries."
+    },
+        
+        
+        {"_id":"02898uj98uj39uj30mnb3y7893gfr5","category_id":"04","rating":{"number":4.5,"badge":"Rising","Duration":"4 months"},"total_view":30808,"price":100.99,"title":"Complete Bootstrap Course","author":{"name":"Mehedi Hasan Tonmoy","published_date":"2022-10-20 11:27:34","img":"https://i.ibb.co/2F0Zr35/sas.jpg"},"image_url":"https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-social.png","details":"Build fast, responsive sites with Bootstrap.Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins."
+
+    },
+
+    {
+        "_id":"0282e0e58a5c40456787654r7s3e794ri37s7d76","category_id":"05","rating":{"number":4.1,"badge":"Excellent","Duration":"3 months"},"total_view":22488,"price":99.99,"title":"Mobile App Development with Kotlin","author":{"name":"Mehedi Hasan Tonmoy","published_date":"2022-10-20 11:27:34","img":"https://i.ibb.co/Fq0zFYc/nus.jpg"},"image_url":"https://wp.5balloons.info/wp-content/uploads/2022/06/install-tailwindcss.png","details":"Tailwind CSS works by scanning all of your HTML files, JavaScript components, and any other templates for class names, generating the corresponding styles and then writing them to a static CSS file."
+
+    },
+
+    {
+        "_id":"02906f65r57g68jf7gd57900h67d65","category_id":"06","rating":{"number":4.9,"badge":"Super Short","Duration":"3 months"},"total_view":99488,"price":89.99,"title":"Complete React JS","author":{"name":"Mehedi Hasan Tonmoy","published_date":"2022-10-20 11:27:34","img":"https://i.ibb.co/2F0Zr35/sas.jpg"},"image_url":"https://res.cloudinary.com/practicaldev/image/fetch/s--3zWuwYa3--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pdib9r9rk5j1m7oala1p.png","details":"React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies."
+    }
+
+
+
+]
